@@ -2,11 +2,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lacquer&display=swap" rel="stylesheet">
 
-
 <div align="center">
-  <h1>현민환's GitHub</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Lacquer&pause=1000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&size=32&width=280&lines=Min+Hwan's+Git+hub;Min+Hwan's+Git+hub" alt="Typing SVG" /></a>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&pause=1000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <div align="center">
   <h2>📚 STACKS</h2>
 
