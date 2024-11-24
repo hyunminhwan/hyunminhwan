@@ -6,7 +6,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Lacquer&pause=1000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&size=32&width=280&lines=Min+Hwan's+Git+hub;Min+Hwan's+Git+hub" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <h2>📚 STACKS</h2>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminhwan)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <div align="center">
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> STACKS<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
+</div>
+
 
   <!-- Database -->
   <h3>📂 Database</h3>
