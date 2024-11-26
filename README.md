@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-[ECR 프로젝트(방탈출)](https://github.com/hyunminhwan/project)
+[ECR 프로젝트(방탈출)](https://github.com/hyunminhwan/project) , 
 [Dicom 프로젝트](https://github.com/hyunminhwan/dicomproject)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminhwan)](https://github.com/hyunminhwan/dicomproject)
