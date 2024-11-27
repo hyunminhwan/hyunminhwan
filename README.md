@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=민환's+Git+hub&fontSize=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=민환's+Git+hub&fontSize=50">
  
 
 <h4>도전을 즐기는 개발자 </h4>
