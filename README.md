@@ -93,7 +93,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>📸 <a href="https://github.com/hyunminhwan/dicomproject">Dicom 프로젝트</a></h3>
-      <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Oracle DB를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
+      <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
     </td>
     <td align="center" width="50%">
       <h3>🧩 <a href="https://github.com/hyunminhwan/project">ECR 프로젝트(방탈출)</a></h3>
