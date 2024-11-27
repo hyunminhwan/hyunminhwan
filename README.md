@@ -86,14 +86,7 @@
   </div>
 </div>
 
-<div align="center">
-
----
-
-<h3>📊 전체 언어 비율</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminhwan&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
-
----
+  <div align="center">
 
 ## 💻 주요 프로젝트
 <table>
@@ -109,5 +102,10 @@
   </tr>
 </table>
 
-</div>
+<h3>📊 전체 언어 비율</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminhwan&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
+
+
+
+  </div>
 </div>
