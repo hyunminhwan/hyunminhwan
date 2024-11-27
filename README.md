@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=민환's+Git+hub&fontSize=50">
  
 
-<h4>도전을 즐기는 개발자 </h4>
-<li>현민환</li>
-<li>hmh3319@gmail.com</li>
-<li>01035503319</li>
-<li>진건고등학교 졸업</li>
+<h3>신입 개발자 현민환의 포트폴리오 </h3>
+<div>👨현민환 | 도전을 즐기는 개발자</div>
+<div>✉️ hmh3319@gmail.com</div>
+<div>📱 01035503319</div>
+<div>🎓 진건고등학교 졸업</div>
 <h3>Web Developer</h3>
 <details>
   <summary> 자기 소개 보기</summary>
