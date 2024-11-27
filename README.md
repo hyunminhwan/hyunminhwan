@@ -4,8 +4,8 @@
 
 <h4>도전을 즐기는 개발자 </h4>
 <li>현민환</li>
-<li>E-mail: hmh3319@gmail.com</li>
-<li>Phone: 01035503319</li>
+<li>hmh3319@gmail.com</li>
+<li>01035503319</li>
 <li>진건고등학교 졸업</li>
 <h3>Web Developer</h3>
 <details>
