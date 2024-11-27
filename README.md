@@ -100,11 +100,11 @@
   <tr>
     <td align="center" width="50%">
       <h3>📸 <a href="https://github.com/hyunminhwan/dicomproject">Dicom 프로젝트</a></h3>
-      <p>Dicom 프로젝트와 관련된 상세 설명을 여기에 작성할 수 있습니다.</p>
+      <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Oracle DB를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
     </td>
     <td align="center" width="50%">
       <h3>🧩 <a href="https://github.com/hyunminhwan/project">ECR 프로젝트(방탈출)</a></h3>
-      <p>ECR 프로젝트와 관련된 상세 설명을 여기에 작성할 수 있습니다.</p>
+      <p>공포 방탈출 예약과 정보를 효율적으로 관리할 수 있는 통합 서비스</p>
     </td>
   </tr>
 </table>
