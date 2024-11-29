@@ -100,6 +100,7 @@
       <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
     </td>
     <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/06a4c399-3a5b-4a43-a844-5b9949aecb0b" width="800px" height="500px">
       <h3>🧩 <a href="https://github.com/hyunminhwan/project">공포 방탈출 예약과 정보를 효율적으로 관리할 수 있는 통합 서비스</a></h3>
       <p> 방탈출 정보를 한 화면에서 확인하고 예약 및 관리를 지원하는 통합 포털 플랫폼을 구현했으며, 오픈소스와 API를 활용해 직관적이고 접근성 높은 웹 서비스를 개발</p>
     </td>
