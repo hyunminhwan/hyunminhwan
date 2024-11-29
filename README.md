@@ -2,15 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=민환's+Git+hub&fontSize=50">
  
 
-<h3>신입 개발자 현민환의 포트폴리오 </h3>
+<h3> Profile </h3>
 <div>👨현민환 | 도전을 즐기는 개발자</div>
 <div>✉️ hmh3319@gmail.com</div>
 <div>📱 01035503319</div>
 <div>🎓 진건고등학교 졸업</div>
 <h3>Web Developer</h3>
+
+
+
 <details>
   <summary> 자기 소개 보기</summary>
-  안녕하세요, 새로운 도전을 두려워하지 않는 신입 백엔드 개발자 현민환입니다.
+안녕하세요, 새로운 도전을 두려워하지 않는 신입 백엔드 개발자 현민환입니다.
 
 저는 제 성장의 기반이 된 세 가지 핵심 요소로 끈기, 학습에 대한 열정, 그리고 팀워크를 꼽고 싶습니다.
 
@@ -92,7 +95,8 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📸 <a href="https://github.com/hyunminhwan/dicomproject">Dicom 프로젝트</a></h3>
+      <img src="https://github.com/user-attachments/assets/50051bb0-cbee-4f99-a785-fc63ad68975f">
+      <h3>📸 <a href="https://github.com/hyunminhwan/dicomproject">의료영상 API연동, 의료이미지 시각화한 프로젝트</a></h3>
       <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
     </td>
     <td align="center" width="50%">
