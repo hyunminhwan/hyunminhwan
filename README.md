@@ -7,12 +7,24 @@
 <div>✉️ hmh3319@gmail.com</div>
 <div>📱 01035503319</div>
 <div>🎓 진건고등학교 졸업</div>
+
+---
+
+<h3>Technical Training</h3>
+<h3>🚀 자바 & 클라우드 활용 풀스택(2024.05.07 ~ 2024.11.25)</h3>
+<li>STS를 활용해 스프링 기반 웹 페이지를 구축</li>
+<li>React와 JavaScript를 활용해 동적인 화면 구성과 효율적인 상태 관리를 구현</li>
+<li>Oracle DB를 활용해 데이터 모델링 및 쿼리 최적화, 데이터 연동 기능을 구현</li>
+<li>Java와 함께 프론트엔드 및 백엔드 기술을 통합하며 풀스택 개발의 기초</li>
+
+---
+
 <h3>Web Developer</h3>
-
-
-
-<details>
-  <summary> 자기 소개 보기</summary>
+<li>끈기를 바탕으로 꾸준히 성장하는 신입 백엔드 개발자</li>
+<li>React와 Spring Boot를 활용한 풀스택 개발 경험 보유</li>
+<li>팀워크를 통해 효율적인 협업과 프로젝트 목표 달성을 즐김</li>
+ <h3><details>
+ <summary> 자기 소개 보기</summary>
 안녕하세요, 새로운 도전을 두려워하지 않는 신입 백엔드 개발자 현민환입니다.
 
 저는 제 성장의 기반이 된 세 가지 핵심 요소로 끈기, 학습에 대한 열정, 그리고 팀워크를 꼽고 싶습니다.
@@ -25,7 +37,10 @@
 
 저는 이러한 경험과 마음가짐으로 회사에서 맡은 역할을 충실히 수행하며 회사의 성장에 기여하겠습니다. 특히 나이가 많다는 점은 다른 지원자보다 늦은 출발을 감수하며 도전에 임했던 절박함으로, 비전공자라는 점은 변화를 두려워하지 않고 배움을 즐기는 자세로 받아들여 주신다면, 회사의 성장과 발전에 함께 기여하는 개발자가 되겠습니다.
 </details>
-  
+
+---
+
+  </h3>
   <div align="center">
     <h2>
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> 
@@ -37,9 +52,7 @@
 
   <!-- Database -->
  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" />
-      Database
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" />
+    <h3>🗂️ Database</h3>
     <div>
       <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     </div>
