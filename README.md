@@ -23,6 +23,8 @@
 <li>끈기를 바탕으로 꾸준히 성장하는 신입 백엔드 개발자</li>
 <li>React와 Spring Boot를 활용한 풀스택 개발 경험 보유</li>
 <li>팀워크를 통해 효율적인 협업과 프로젝트 목표 달성을 즐김</li>
+
+<br>
  <details>
 <summary> 자기 소개</summary>
 
