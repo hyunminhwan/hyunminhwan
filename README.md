@@ -110,7 +110,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/50051bb0-cbee-4f99-a785-fc63ad68975f">
+     <a href="https://github.com/hyunminhwan/dicomproject"> <img src="https://github.com/user-attachments/assets/50051bb0-cbee-4f99-a785-fc63ad68975f"></a>
       <h3>📸 <a href="https://github.com/hyunminhwan/dicomproject">의료영상 API연동, 의료이미지 시각화한 프로젝트</a></h3>
       <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
     </td>
