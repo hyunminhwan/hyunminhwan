@@ -122,6 +122,9 @@
   </tr>
 </table>
 
+<h3>새로 습득중인 STACKS</h3>
+<li>TypeScript</li>
+<li>Next.js</li>
 <h3>📊 전체 언어 비율</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminhwan&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
 
