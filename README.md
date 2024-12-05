@@ -102,9 +102,13 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </div>
-</div>
+  
+  ---
+  
+<h2> 새로 습득중인 STACKS </h2>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 
-  <div align="center">
 
 ## 💻 주요 프로젝트
 <table>
@@ -122,13 +126,7 @@
   </tr>
 </table>
 
-<h3>새로 습득중인 STACKS</h3>
-<li>TypeScript</li>
-<li>Next.js</li>
+
 <h3>📊 전체 언어 비율</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminhwan&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
-
- <a herf="https://github.com/hyeyeon9037/Dicom_Project"> <img src="https://github.com/user-attachments/assets/8557b558-de7c-45c2-a87a-6106bcf39a07"></a>
-
-  </div>
 </div>
