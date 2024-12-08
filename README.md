@@ -109,7 +109,10 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 
+<h2> 진행중인 프로젝트</h2>
 
+### <a  href="https://github.com/Rumanistic/Popspot">POPSPOP</a>
+  
 ## 💻 주요 프로젝트
 <table>
   <tr>
