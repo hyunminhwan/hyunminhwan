@@ -115,7 +115,7 @@
 
 ### <a  href="https://github.com/hyunminhwan/BookGenie">BookGenie</a>
   
-## 💻 주요 프로젝트
+## 💻 팀 프로젝트
 <table>
   <tr>
     <td align="center" width="50%">
@@ -127,6 +127,17 @@
      <a href="https://github.com/hyunminhwan/project"> <img src="https://github.com/user-attachments/assets/06a4c399-3a5b-4a43-a844-5b9949aecb0b"></a>
       <h3>🧩 <a href="https://github.com/hyunminhwan/project">방탈출 카페를 효율적으로 관리할 수 있는 서비스</a></h3>
       <p> 방탈출 정보를 한 화면에서 확인하고 예약 및 관리를 지원하는 통합 포털 플랫폼을 구현했으며, 오픈소스와 API를 활용해 직관적이고 접근성 높은 웹 서비스를 개발</p>
+    </td>
+  </tr>
+</table>
+
+## 💻 개인 프로젝트
+<table>
+  <tr>
+    <td align="center" width="50%">
+     <a href="https://github.com/hyunminhwan/BookGenie"">BookGenie</a>
+      <h3>📸 <a href="https://github.com/hyunminhwan/dicomproject">AI 기반 도서 관리 및 추천 시스템 </a></h3>
+      <p> AI 알고리즘을 활용하여 사용자 대여 기록과 리뷰 데이터를 기반으로 맞춤형 도서를 추천하는 시스템. React와 TypeScript로 직관적인 사용자 인터페이스를 제공하며, Spring Boot와 JPA를 활용해 효율적인 데이터 관리 및 대여/반납 기능을 구현. 도서 리뷰, 평점, 위시리스트, 추천 기능을 통해 독서 경험을 극대화.</p>
     </td>
   </tr>
 </table>
