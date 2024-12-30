@@ -111,7 +111,7 @@
 
 <h2> 진행중인 프로젝트</h2>
 
-### <a  href="https://github.com/Rumanistic/Popspot">POPSPOP</a>
+### <a  href="https://github.com/hyunminhwan/BookGenie">BookGenie</a>
   
 ## 💻 주요 프로젝트
 <table>
