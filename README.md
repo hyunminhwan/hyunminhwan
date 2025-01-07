@@ -114,7 +114,19 @@
 <h2> 진행중인 프로젝트</h2>
 
 ### <a  href="https://github.com/hyunminhwan/BookGenie">BookGenie</a>
-  
+
+---
+## 💻 개인 프로젝트
+<table>
+  <tr>
+    <td align="center" width="50%">
+     <a href="https://github.com/hyunminhwan/BookGenie"">BookGenie</a>
+      <h3>📸 AI 기반 도서 관리 및 추천 시스템 </h3>
+      <p> AI 알고리즘을 활용하여 사용자 대여 기록과 리뷰 데이터를 기반으로 맞춤형 도서를 추천하는 시스템. NEXT.JS와 TypeScript로 직관적인 사용자 인터페이스를 제공하며, Spring Boot와 JPA를 활용해 효율적인 데이터 관리 및 대여/반납 기능을 구현. 도서 리뷰, 평점, 위시리스트, 추천 기능을 통해 독서 경험을 극대화.</p>
+    </td>
+  </tr>
+</table>
+---
 ## 💻 팀 프로젝트
 <table>
   <tr>
@@ -131,17 +143,8 @@
   </tr>
 </table>
 
-## 💻 개인 프로젝트
-<table>
-  <tr>
-    <td align="center" width="50%">
-     <a href="https://github.com/hyunminhwan/BookGenie"">BookGenie</a>
-      <h3>📸 AI 기반 도서 관리 및 추천 시스템 </h3>
-      <p> AI 알고리즘을 활용하여 사용자 대여 기록과 리뷰 데이터를 기반으로 맞춤형 도서를 추천하는 시스템. NEXT.JS와 TypeScript로 직관적인 사용자 인터페이스를 제공하며, Spring Boot와 JPA를 활용해 효율적인 데이터 관리 및 대여/반납 기능을 구현. 도서 리뷰, 평점, 위시리스트, 추천 기능을 통해 독서 경험을 극대화.</p>
-    </td>
-  </tr>
-</table>
 
+---
 
 <h3>📊 전체 언어 비율</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminhwan&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
