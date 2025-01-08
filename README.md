@@ -113,7 +113,7 @@
 
 <h2> 진행중인 프로젝트</h2>
 
-### <a  href="https://github.com/hyunminhwan/BookGenie">BookGenie</a>
+### <a  href="https://github.com/hyunminhwan/MovieGenie">MovieGenie</a>
 
 ---
 ## 💻 개인 프로젝트
