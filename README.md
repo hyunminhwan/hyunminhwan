@@ -120,9 +120,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-     <a href="https://github.com/hyunminhwan/BookGenie"">BookGenie</a>
-      <h3>📸 AI 기반 도서 관리 및 추천 시스템 </h3>
-      <p> AI 알고리즘을 활용하여 사용자 대여 기록과 리뷰 데이터를 기반으로 맞춤형 도서를 추천하는 시스템. NEXT.JS와 TypeScript로 직관적인 사용자 인터페이스를 제공하며, Spring Boot와 JPA를 활용해 효율적인 데이터 관리 및 대여/반납 기능을 구현. 도서 리뷰, 평점, 위시리스트, 추천 기능을 통해 독서 경험을 극대화.</p>
+     <a href="https://github.com/hyunminhwan/MovieGenie">MovieGenie</a>
+      <h3>📸 AI 기반 영화/드라마 추천 시스템 </h3>
+      <p> AI 알고리즘을 활용해 사용자 선호 데이터를 기반으로 맞춤형 영화와 드라마를 추천하는 시스템입니다.</p>
+      <p>Next.js와 TypeScript로 사용자 친화적인 UI를 제공하며, Spring Boot와 JPA로 안정적인 데이터 관리를 구현했습니다.</p>
+      <p>좋아요, 리뷰, OTT 바로가기 등의 기능을 통해 영화 경험을 극대화합니다.</p>
     </td>
   </tr>
 </table>
