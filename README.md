@@ -109,45 +109,6 @@
     <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </div>
 
-  ---
-
-<h2> 진행중인 프로젝트</h2>
-
-### <a  href="https://github.com/hyunminhwan/MovieGenie">MovieGenie</a>
-
----
-## 💻 개인 프로젝트
-<table>
-  <tr>
-    <td align="center" width="50%">
-     <a href="https://github.com/hyunminhwan/MovieGenie">MovieGenie</a>
-      <h3>📸 AI 기반 영화/드라마 추천 시스템 </h3>
-      <p> AI 알고리즘을 활용해 사용자 선호 데이터를 기반으로 맞춤형 영화와 드라마를 추천하는 시스템입니다.</p>
-      <p>Next.js와 TypeScript로 사용자 친화적인 UI를 제공하며, Spring Boot와 JPA로 안정적인 데이터 관리를 구현했습니다.</p>
-      <p>좋아요, 리뷰, OTT 바로가기 등의 기능을 통해 영화 경험을 극대화합니다.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💻 팀 프로젝트
-<table>
-  <tr>
-    <td align="center" width="50%">
-     <a href="https://github.com/hyunminhwan/dicomproject"> <img src="https://github.com/user-attachments/assets/50051bb0-cbee-4f99-a785-fc63ad68975f"></a>
-      <h3>📸 <a href="https://github.com/hyunminhwan/dicomproject">의료영상 API연동, 의료이미지 시각화한 프로젝트</a></h3>
-      <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
-    </td>
-    <td align="center" width="50%">
-     <a href="https://github.com/hyunminhwan/project"> <img src="https://github.com/user-attachments/assets/06a4c399-3a5b-4a43-a844-5b9949aecb0b"></a>
-      <h3>🧩 <a href="https://github.com/hyunminhwan/project">방탈출 카페를 효율적으로 관리할 수 있는 서비스</a></h3>
-      <p> 방탈출 정보를 한 화면에서 확인하고 예약 및 관리를 지원하는 통합 포털 플랫폼을 구현했으며, 오픈소스와 API를 활용해 직관적이고 접근성 높은 웹 서비스를 개발</p>
-    </td>
-  </tr>
-</table>
-
-
 ---
 
 <h3>📊 전체 언어 비율</h3>
